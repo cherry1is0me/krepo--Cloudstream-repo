@@ -1,0 +1,9 @@
+
+{
+  "name": "KREPO",
+  "description": "KREPO - Turkish CloudStream Extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/cherry1is0me/krepo--Cloudstream-repo/builds/plugins.json"
+  ]
+}
